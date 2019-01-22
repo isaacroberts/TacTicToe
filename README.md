@@ -12,18 +12,18 @@ Each move on the little board (Hash) sends your opponent to the same square on t
 ```
 # - Hash
 ```
- So, selecting the top left square of the middle hash would require you to put your next move in the top left hash. 
+ So, selecting the top left square of the bottom right hash would require you to put your next move in the top left hash. 
 ```
 (X) 
-###        X | _ | _ \
-#*#    *:  _ | _ | _ \
-###        _ | _ | _
+###        X | _ | _ 
+###    @:  _ | _ | _ 
+##^        _ | _ | _
 
  --->
  
 (O) 
-*##        _ | _ | _ 
-###    *:  _ | _ | _ 
+^##        _ | _ | _ 
+###    @:  _ | 0 | _ 
 ###        _ | _ | _
  
 ```
