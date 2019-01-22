@@ -25,8 +25,11 @@ Each move on the little board (Hash) sends your opponent to the same square on t
 ^##        _ | _ | _ 
 ###    @:  _ | 0 | _ 
 ###        _ | _ | _
- 
 ```
+
+Selecting an unavailable square allows the opponent to move anywhere on the board.
+
+
 Winning a hash claims that square on the big board, and winning the big board wins the game.  
  
  
