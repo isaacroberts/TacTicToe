@@ -5,24 +5,24 @@ The Rules:
 
 Each move on the little board (Hash) sends your opponent to the same square on the big board.
 
-###
-### - Big Board
-### 
+\###
+\### - Big Board
+\### 
 
-# - Hash
+\# - Hash
 
  So, selecting the top left square of the middle hash would require you to put your next move in the top left hash. 
 
 (X)
-###         X | _ | _
+\###         X | _ | _
 #\*#   *:   _ | _ | _
-###         _ | _ | _
+\###         _ | _ | _
 
  --->
  (O)
  \*##         _ | _ | _
- ###    *:   _ | _ | _
- ###         _ | _ | _
+ \###    *:   _ | _ | _
+ \###         _ | _ | _
  
  
 Winning a hash claims that square on the big board, and winning the big board wins the game.  
